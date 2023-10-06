@@ -1,9 +1,12 @@
 [submodule "tests-frontend"]
 	path = tests-frontend
 	url = https://github.com/Pedro35803/tests-bloco-de-notas
+	branch = main
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/Pedro35803/frontend-bloco-de-notas
+	branch = main
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Pedro35803/backend-bloco-de-notas
+	branch = main
