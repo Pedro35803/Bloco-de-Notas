@@ -1,0 +1,9 @@
+[submodule "frontend-bloco-de-notas"]
+	path = frontend-bloco-de-notas
+	url = https://github.com/Pedro35803/frontend-bloco-de-notas
+[submodule "tests-bloco-de-notas"]
+	path = tests-bloco-de-notas
+	url = https://github.com/Pedro35803/tests-bloco-de-notas
+[submodule "backend-bloco-de-notas"]
+	path = backend-bloco-de-notas
+	url = https://github.com/Pedro35803/backend-bloco-de-notas
